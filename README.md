@@ -1,2 +1,30 @@
-# EDA_03_EliteIntern
-This project involves segmenting a company’s clientele to classify customers based on attributes such as age, purchasing behavior, and interests. By applying clustering techniques like K-Means, the goal is to identify distinct customer segments. These segments help businesses tailor their marketing strategies and target specific groups
+# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+
+## AIM:
+To write a program to implement the K Means Clustering for Customer Segmentation.
+
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Jupyter notebook
+
+## Algorithm
+1. 
+2. 
+3. 
+4. 
+
+## Program:
+```
+/*
+Program to implement the K Means Clustering for Customer Segmentation.
+Developed by: 
+RegisterNumber:  
+*/
+```
+
+## Output:
+![K Means Clustering for Customer Segmentation](sam.png)
+
+
+## Result:
+Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
